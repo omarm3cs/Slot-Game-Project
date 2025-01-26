@@ -8,7 +8,7 @@ int main(){
     int balance = 10;
     srand(time(0));
 
-    //testing
+    
     cout << "Hello! Your balance is: $" << balance << " to play it costs $1. Would you like to play or exit? (Y to Play, N to exit )" << endl;
     getline(cin, question);
 
